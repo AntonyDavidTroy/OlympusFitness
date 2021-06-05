@@ -9,7 +9,7 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #353535;
 }
 
 /* headings and logo */
@@ -18,10 +18,40 @@ h1, h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: #202020;
 }
 
 #logo {
     float: left;
     font-size: 250%;
+}
+
+/* Navigation Links */
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu {
+    font-size: 120%;
+    letter-spacing: 5px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 35px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #353535;
+}
+
+.active {
+    border-bottom: 1px solid #353535;
 }
