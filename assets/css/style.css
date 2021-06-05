@@ -55,3 +55,34 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #353535;
 }
+
+/* Main image */
+
+#main-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/Gym\ studio.jpg') no-repeat center center;
+    background-size: 100% 100%;
+
+/* animates zoom effect on loading page */
+    animation-name: mainimage-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+/* levels of zoom for main image */
+
+@keyframes mainimage-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.05);
+        }
+}
