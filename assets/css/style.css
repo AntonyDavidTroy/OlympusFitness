@@ -57,11 +57,11 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #353535;
+    border-bottom: 1px solid #bdb6b6;
 }
 
 .active {
-    border-bottom: 1px solid #353535;
+    border-bottom: 1px solid #bdb6b6;
 }
 
 /* Main image */
@@ -156,28 +156,29 @@ h1, h2 {
     height: 100%;
     margin-top: 85px;
     margin-right: 5%;
+    border: 2px solid #bdb6b6;
 }
 
 #hr1 {
     border-top: 1px solid #bdb6b6;
-    width: 17%;
+    width: 21%;
     margin: auto;
 }
 
 #hr2 {
     border-top: 1px solid #bdb6b6;
-    width: 31%;
+    width: 35%;
     margin: auto;
 }
 
 #hr3 {
     border-top: 1px solid #bdb6b6;
-    width: 12%;
+    width: 17%;
     margin: auto;
 }
 
 #hr4 {
     border-top: 1px solid #bdb6b6;
-    width: 31%;
+    width: 34%;
     margin: auto;
 }
