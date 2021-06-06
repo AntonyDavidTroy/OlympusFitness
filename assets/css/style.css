@@ -30,7 +30,7 @@ h1, h2 {
 
 #contact-info-heading {
     font-size: 2.5rem;
-    margin-top: 75px;
+    margin: 55px 0;
     text-align: center;
 }
 
@@ -146,12 +146,16 @@ h1, h2 {
 }
 
 #right-half-map {
-    margin-top: 100px;
-    margin-right: 50px;
     width: 50%;
-    height: 500px;
+    height: 550px;
     float: right;
-    background: url('../images/Map.jpg') ;
+}
+
+#map-cover-bg {
+    background: url('../images/Map.jpg') no-repeat center center;
+    height: 100%;
+    margin-top: 85px;
+    margin-right: 5%;
 }
 
 #hr1 {
