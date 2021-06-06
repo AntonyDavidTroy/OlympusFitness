@@ -9,7 +9,8 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    color: #353535;
+    color: #bdb6b6;
+    background-color: #353535;
 }
 
 /* headings and logo */
@@ -18,7 +19,7 @@ h1, h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #202020;
+    color: #bdb6b6;
 }
 
 #logo {
@@ -28,7 +29,7 @@ h1, h2 {
 }
 
 #contact-info-heading {
-    font-size: 175%;
+    font-size: 2.5rem;
     margin-top: 75px;
     text-align: center;
 }
@@ -73,10 +74,6 @@ h1, h2 {
     position: relative;
 }
 
-#cover-text, #cover-text h2 {
-    color: white;
-}
-
 #main-image {
     height: 600px;
     width: 100%;
@@ -112,7 +109,7 @@ h1, h2 {
     padding-top: 1px;
     padding-left: 5px;
 
-    background: rgba(226, 89, 9, 0.6);
+    background: rgba(53, 53, 53, 0.7);
 
     bottom: 1px;
     right: 565px;
@@ -123,19 +120,60 @@ h1, h2 {
 /* main page contact info */
 
 #home-page-contact {
-    height : 600px;
+    height : 750px;
+    background-color: #353535;
 }
 
 #left-half-contact {
-    padding-top: 30px;
+    padding-top: 100px;
     width: 50%;
     float: left;
-    background-color: red;
+}
+
+#left-half-contact > h5 {
+    font-size: 2rem;
+    text-align: center;
+    font-family: inherit;
+    font-weight: 1000;
+    color: inherit;
+}
+
+#left-half-contact > p {
+    font-size: 1.25rem;
+    text-align: center;
+    line-height: 5;
+    font-weight: 500;
 }
 
 #right-half-map {
-    padding-top: 30px;
+    margin-top: 100px;
+    margin-right: 50px;
     width: 50%;
+    height: 500px;
     float: right;
-    background-color: blue;
+    background: url('../images/Map.jpg') ;
+}
+
+#hr1 {
+    border-top: 1px solid #bdb6b6;
+    width: 17%;
+    margin: auto;
+}
+
+#hr2 {
+    border-top: 1px solid #bdb6b6;
+    width: 31%;
+    margin: auto;
+}
+
+#hr3 {
+    border-top: 1px solid #bdb6b6;
+    width: 12%;
+    margin: auto;
+}
+
+#hr4 {
+    border-top: 1px solid #bdb6b6;
+    width: 31%;
+    margin: auto;
 }
