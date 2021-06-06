@@ -161,13 +161,13 @@ h1, h2 {
 
 #hr1 {
     border-top: 1px solid #bdb6b6;
-    width: 21%;
+    width: 22%;
     margin: auto;
 }
 
 #hr2 {
     border-top: 1px solid #bdb6b6;
-    width: 35%;
+    width: 34%;
     margin: auto;
 }
 
@@ -181,4 +181,39 @@ h1, h2 {
     border-top: 1px solid #bdb6b6;
     width: 34%;
     margin: auto;
+}
+
+/* Footer */
+
+footer {
+    height: 125px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    padding-left: 7.5%;
+    padding-right: 7.5%;
+    color: #bdb6b6;
+}
+
+#footer-number {
+    padding: 2%;
+    text-align: center;
+    width: 45%;
+    float:left;
+}
+
+#footer-hours {
+    padding: 2%;
+    text-align: center;
+    width: 45%;
+    float: right;
 }
