@@ -77,7 +77,7 @@ h1, h2 {
 #main-image {
     height: 600px;
     width: 100%;
-    background: url('../images/Gym\ studio.jpg') no-repeat center center;
+    background: url('../images/gym\ studio.jpg') no-repeat center center;
     background-size: 100% 100%;
 
 /* animates zoom effect on loading page */
@@ -152,7 +152,7 @@ h1, h2 {
 }
 
 #map-cover-bg {
-    background: url('../images/Map.jpg') no-repeat center center;
+    background: url('../images/map.jpg') no-repeat center center;
     height: 100%;
     margin-top: 85px;
     margin-right: 5%;
@@ -216,4 +216,51 @@ footer {
     text-align: center;
     width: 45%;
     float: right;
+}
+
+/* gallery */
+
+.container {
+    clear: both;
+    width: 85%;
+    min-height: 500px;
+    margin: 70px auto 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.container .box {
+    position: relative;
+    width: 30%;
+    height: 275px;
+    margin: 10px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.container .box div {
+    position: relative;
+}
+
+.container .box img {
+    width: 100%;
+    height: 100%;
+}
+
+.container-2 {
+    clear: both;
+    width: 50%;
+    min-height: 200px;
+    margin: 70px auto 0;
+}
+.container-2 .box-2 {
+    position: relative;
+    height: 300px;
+    margin: 10px;
+}
+
+.container-2 .box-2 img {
+    width: 100%;
+    height: 100%;
 }
