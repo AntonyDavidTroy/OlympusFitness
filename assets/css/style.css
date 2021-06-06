@@ -24,6 +24,13 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 250%;
+    margin-left: 40px   ;
+}
+
+#contact-info-heading {
+    font-size: 175%;
+    margin-top: 75px;
+    text-align: center;
 }
 
 /* Navigation Links */
@@ -40,7 +47,7 @@ h1, h2 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 35px;
+    margin-right: 40px;
 }
 
 #menu a {
@@ -111,4 +118,24 @@ h1, h2 {
     right: 565px;
 
     position: absolute;
+}
+
+/* main page contact info */
+
+#home-page-contact {
+    height : 600px;
+}
+
+#left-half-contact {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    background-color: red;
+}
+
+#right-half-map {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    background-color: blue;
 }
