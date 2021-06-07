@@ -112,7 +112,7 @@ h1, h2 {
     background: rgba(53, 53, 53, 0.7);
 
     bottom: 1px;
-    right: 565px;
+    right: 37%;
 
     position: absolute;
 }
@@ -246,4 +246,28 @@ footer {
 .container .box img {
     width: 100%;
     height: 100%;
+}
+
+/* media queries */
+
+/* for larger to medium screen sizes from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    
+}
+
+/* for medium to small screen sizes from 925px wide and down */
+@media screen and (max-width: 925px) {
+    #menu {
+        clear: both;
+        float: left;
+        margin-left: 25px;
+        margin-bottom: 20px;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 725px) {
+    .container .box {
+        height: 200px;
+    }
 }
