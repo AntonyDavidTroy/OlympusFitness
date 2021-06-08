@@ -147,6 +147,7 @@ h1, h2 {
     font-weight: 500;
 }
 
+
 #right-half-map {
     width: 50%;
     height: 550px;
@@ -190,6 +191,7 @@ h1, h2 {
 footer {
     clear: both;
     height: 125px;
+    padding-top: 35px;
 }
 
 .social-networks {
@@ -251,6 +253,12 @@ footer {
     height: 100%;
 }
 
+.box:hover {
+    overflow: hidden;
+    border-radius: 25px;
+    border: 3px solid #bdb6b6;
+}
+
 /* Membership and classes  */
 
 #membership-title {
@@ -296,6 +304,30 @@ footer {
     background-color:#bdb6b6;
     color: #353535;
 }
+
+#membership-button {
+    clear: both;
+    width: 20%;
+    margin: auto;
+    padding: 5px;
+    font-size: 1.5rem;
+    text-align: center;
+    border: 2px solid #bdb6b6;
+    border-radius: 25px;
+}
+
+#membership-button a:link, #membership-button a:visited {
+    background-color: none;
+    color: #bdb6b6;
+    text-decoration: none;
+  }
+
+#membership-button:hover, #membership-button:active {
+    text-decoration: underline;
+    color: #353535;
+}
+
+
 
 /* media queries */
 
