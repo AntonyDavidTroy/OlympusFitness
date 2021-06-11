@@ -264,11 +264,10 @@ footer {
 .membership-page-titles {
     font-size: 2.25rem;
     text-align: center;
+    clear: both; 
     letter-spacing: 4px;
-    clear: both;
     padding: 15px;
     margin: 50px auto;
-    width: 85%;
 }
 
 
@@ -362,6 +361,25 @@ footer {
     font-size: 110%;
     font-weight: 600;
 }
+
+/* Class timetable */
+
+.timetable th{
+    border: 2px solid #bdb6b6;
+}
+
+.timetable {
+    width: 90%;
+    border-collapse: collapse;
+    margin: 15px auto;
+    font-size: 1rem;
+    min-width: 400px;
+}
+.timetable th,
+.timetable td {
+    padding: 10px;
+}
+
 
 /* media queries */
 
