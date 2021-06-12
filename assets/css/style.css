@@ -261,7 +261,7 @@ footer {
 
 /* Membership and classes  */
 
-.membership-page-titles {
+.h2-titles {
     font-size: 2.25rem;
     text-align: center;
     clear: both; 
@@ -275,7 +275,7 @@ footer {
     margin: auto;
     width: 80%;
     display: flex;
-    height: 450px;
+    height: 425px;
   }
   
   .membership-box {
@@ -315,15 +315,28 @@ footer {
     border-radius: 25px;
 }
 
-#membership-button a:link, #membership-button a:visited {
+#timetable-button {
+    clear: both;
+    width: 20%;
+    margin: 50px auto;
+    padding: 5px;
+    font-size: 1.5rem;
+    text-align: center;
+    border: 2px solid #bdb6b6;
+    border-radius: 25px;
+}
+
+#membership-button a:link, #membership-button a:visited,
+#timetable-button a:link, #timetble-button a:visited {
     background-color: none;
     color: #bdb6b6;
     text-decoration: none;
   }
 
-#membership-button:hover, #membership-button:active {
+#membership-button:hover, #membership-button:active,
+#timetable-button:hover, #timetable-button a:visited {
     text-decoration: underline;
-    color: #353535;
+    color: #bdb6b6;
 }
 
 #classes {
@@ -379,6 +392,7 @@ footer {
 .timetable td {
     padding: 10px;
 }
+
 
 
 /* media queries */
