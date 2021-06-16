@@ -121,18 +121,18 @@ h1, h2 {
 
 /* main page contact info */
 
-#home-page-contact {
+.home-page-contact {
     height : 750px;
     background-color: #353535;
 }
 
-#left-half-contact {
+.left-half-contact {
     padding-top: 100px;
     width: 50%;
     float: left;
 }
 
-#left-half-contact > h5 {
+.left-half-contact > h5 {
     font-size: 2rem;
     text-align: center;
     font-family: inherit;
@@ -140,7 +140,7 @@ h1, h2 {
     color: inherit;
 }
 
-#left-half-contact > p {
+.left-half-contact > p {
     font-size: 1.25rem;
     text-align: center;
     line-height: 5;
@@ -327,7 +327,7 @@ footer {
 }
 
 #membership-button a:link, #membership-button a:visited,
-#timetable-button a:link, #timetble-button a:visited {
+#timetable-button a:link, #timetable-button a:visited {
     background-color: none;
     color: #bdb6b6;
     text-decoration: none;
@@ -393,6 +393,105 @@ footer {
     padding: 10px;
 }
 
+/* contacts main image */
+
+#contact-main-image {
+    margin: -40px auto 0;
+    height: 575px;
+    width: 90%;
+    background: url('../images/gym-studio-4.png') no-repeat center center ;
+    background-size: 100% 100%;
+
+    /* animates zoom effect on loading page */
+    animation-name: mainimage-zoom;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+/* levels of zoom for main image */
+
+@keyframes contactmainimage-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+        }
+}
+
+#map-wrapper {
+    text-align: center;
+}
+#map {
+    clear: both;
+    padding: 0;
+    margin: 50px auto;
+    position: relative;
+    height: 575px;
+    width: 95%;
+    border: 1px solid #353535;
+}
+
+.h3-titles {
+    font-size: 1.75rem;
+    text-align: center;
+    clear: both; 
+    letter-spacing: 3px;
+    padding: 15px;
+    margin: 25px auto 0;
+}
+
+.get-in-touch {
+    font-size: 1.25rem;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+#right-half-contact {
+    padding-top: 100px;
+    width: 50%;
+    height: 550px;
+    float: right;
+}
+.enquiry-form {
+    text-align: center;
+}
+
+.form-input {
+    clear: both;
+    display: block;
+    margin: 15px auto;
+    width: 90%;
+    padding: 5px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 2;
+    color: #353535;
+    background-color: #d1cbcb;
+    background-clip: padding-box;
+    border-radius: 2px;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+#enquiry {
+    margin: 50px auto;
+}
+
+.form-button {
+    font-size: 1.5rem;
+    padding: 5px;
+    border: 1px solid #353535;
+    border-radius: 10px;
+    background-color: #bdb6b6;
+}
+
+.form-button:hover {
+    text-decoration: none;
+    border-color: #bdb6b6;
+    background-color:#353535;
+    color: #bdb6b6;
+    cursor: pointer;
+}
 
 
 /* media queries */
