@@ -227,7 +227,7 @@ footer {
 
 .container {
     clear: both;
-    width: 85%;
+    width: 90%;
     min-height: 500px;
     margin: 70px auto 50px;
     display: flex;
@@ -235,11 +235,11 @@ footer {
     flex-wrap: wrap;
 }
 
-.container .box {
+.container > .box {
     position: relative;
-    width: 30%;
-    height: 275px;
-    margin: 10px;
+    max-width: 375px;
+    max-height: 275px;
+    margin: 70px auto -25px auto;
     box-sizing: border-box;
     display: inline-block;
 }
@@ -279,9 +279,10 @@ footer {
   }
   
   .membership-box {
-    width: 300px;
-    height: 250px; 
-    margin: auto; 
+    clear: both;
+    width: 330px;
+    height: 275px; 
+    margin: auto;
     text-align: center;
     border-radius: 25px;
   }
@@ -291,6 +292,7 @@ footer {
       font-size: 150%;
       letter-spacing: 3px;
       padding: 15px;
+
   }
 
   .membership-box > p {
@@ -344,17 +346,20 @@ footer {
     overflow: hidden;
     margin: 70px auto;
     padding: 15px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
 }
 
 .class-box {
     text-align: center;
     list-style: none;
     float: left;
-    width: 17%;
-    height: 250px;
+    width: 200px;
+    height: 350px;
     margin: 20px 20px 20px 40px;
     padding: 25px;
     border-radius: 25px;
+    overflow: hidden;
 }
 
 .class-box:hover {
@@ -496,13 +501,14 @@ footer {
 
 /* media queries */
 
+
 /* for larger to medium screen sizes from 1200px wide and down */
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1050px) {
     
 }
 
-/* for medium to small screen sizes from 925px wide and down */
-@media screen and (max-width: 925px) {
+/* for medium to small screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
     #menu {
         clear: both;
         float: left;
@@ -510,10 +516,42 @@ footer {
         margin-bottom: 20px;
         line-height: 20px;
     }
+
 }
 
-@media screen and (max-width: 725px) {
-    .container .box {
-        height: 200px;
+/* for medium to small screen sizes from 780px wide and down */
+@media screen and (max-width: 780px) {
+    #right-half-contact {
+        clear: both;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .left-half-contact {
+        width: 100%;
+    }
+
+    #right-half-map {
+        width: 100%;
+    }
+
+    #map-cover-bg {
+        margin: 10px 10px;
+    }
+}
+
+
+/* for medium to small screen sizes from 550px wide and down */
+@media screen and (max-width: 550px) {
+    #menu ul{
+        line-height: 25px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .membership-container {
+        clear: both;
+        flex-direction: column;
     }
 }
