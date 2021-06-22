@@ -136,7 +136,6 @@ h1, h2 {
     font-size: 2rem;
     text-align: center;
     font-family: inherit;
-    font-weight: 1000;
     color: inherit;
 }
 
@@ -164,25 +163,31 @@ h1, h2 {
 
 #hr1 {
     border-top: 1px solid #bdb6b6;
-    width: 22%;
+    width: 175px;
     margin: auto;
 }
 
 #hr2 {
     border-top: 1px solid #bdb6b6;
-    width: 34%;
+    width: 260px;
     margin: auto;
 }
 
 #hr3 {
     border-top: 1px solid #bdb6b6;
-    width: 17%;
+    width: 140px;
     margin: auto;
 }
 
 #hr4 {
     border-top: 1px solid #bdb6b6;
-    width: 34%;
+    width: 260px;
+    margin: auto;
+}
+
+#hr5 {
+    border-top: 1px solid #bdb6b6;
+    width: 210px;
     margin: auto;
 }
 
@@ -223,6 +228,17 @@ footer {
     float: right;
 }
 
+.phone-number {
+    color: inherit !important;
+    text-decoration: none !important;
+}
+
+#copyright {
+    clear: both;
+    padding-bottom: 50px;
+    margin: 0 auto 50px;
+}
+
 /* gallery */
 
 .container {
@@ -238,7 +254,7 @@ footer {
 .container > .box {
     position: relative;
     max-width: 375px;
-    max-height: 275px;
+    height: 275px;
     margin: 70px auto -25px auto;
     box-sizing: border-box;
     display: inline-block;
@@ -333,7 +349,6 @@ footer {
 
 #membership-button a:link, #membership-button a:visited,
 #timetable-button a:link, #timetable-button a:visited {
-    background-color: none;
     color: #bdb6b6;
     text-decoration: none;
   }
@@ -460,6 +475,13 @@ footer {
     height: 550px;
     float: right;
 }
+
+#enquiry-title {
+    font-size: 2rem;
+    text-align: center;
+    font-family: inherit;
+    color: inherit;
+}
 .enquiry-form {
     text-align: center;
 }
@@ -486,6 +508,7 @@ footer {
 
 .form-button {
     font-size: 1.5rem;
+    margin-top: -15px;
     padding: 5px;
     border: 1px solid #353535;
     border-radius: 10px;
@@ -503,12 +526,6 @@ footer {
 
 /* media queries */
 
-
-/* for larger to medium screen sizes from 1200px wide and down */
-@media screen and (max-width: 1050px) {
-    
-}
-
 /* for medium to small screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
     #menu {
@@ -518,7 +535,6 @@ footer {
         margin-bottom: 20px;
         line-height: 20px;
     }
-
 }
 
 /* for medium to small screen sizes from 800px wide and down */
@@ -555,13 +571,13 @@ footer {
 
     .timetable {
         display: block;
-        height: 400px;
+        height: 510px;
         width: 90%;
-        overflow: auto;
+        overflow-x: auto;
     }
 }
 
-/* for medium to small screen sizes from 550px wide and down */
+/* for small screen sizes from 550px wide and down */
 @media screen and (max-width: 550px) {
     #menu ul{
         line-height: 25px;
@@ -591,6 +607,37 @@ footer {
         height: 215px;
         left: 10px;
     }
-    
 
+    #main-outer {
+        height: 400px;
+    }
+
+    #main-image {
+        height: 400px;
+    }
+
+    #cover-text {
+        font-size: 75%;
+    
+        width: 250px;
+        height: 150px;
+
+        bottom: 1px 
+    }
+
+    #contact-main-image {
+        height: 425px;
+    }
+}
+
+/* for small screen sizes from 400px wide and down */
+@media screen and (max-width: 400px) {
+    #membership-button {
+        width: 35%;
+        margin: 400px auto 0;
+    }
+    
+    #contact-main-image {
+        height: 375px;
+    }
 }
