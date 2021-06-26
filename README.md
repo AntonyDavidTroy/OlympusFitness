@@ -16,7 +16,7 @@ The intention behind this project is health, fitness and well being! In this pro
 
 ## User-Stories
 
-This Website highlights the facilities of the Olympus Fitness gym. The hours of operations, pricing and facility highlights are listed at the as that is what potential clients/members care about the most. A Gallery page is presented to help provide with images of the equipment, classes and  the general look of the gym. The website is filled with a good deal of information and also has an equiry form where they can ask any additonal questions that they would like to be ask. I wanted to make the website look attractive to people of all ages.
+This website highlights the facilities of the Olympus Fitness gym. The hours of operations, pricing and facility highlights are listed at the as that is what potential clients/members care about the most. A Gallery page is presented to help provide with images of the equipment, classes and  the general look of the gym. The website is filled with a good deal of information and also has an equiry form where they can ask any additonal questions that they would like to be ask. I wanted to make the website look attractive to people of all ages.
 
 
 #### Framework
