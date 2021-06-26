@@ -1,4 +1,4 @@
-<img src="./assets/images/preview-on-all-devices.jpg">
+<img src="/assets/images/preview-on-all-devices.jpg">
 
 # Olympus Fitness
 
