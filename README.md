@@ -172,9 +172,9 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 #### Languages
 
 
-   -HTML
+   - HTML
    
-   -CSS
+   - CSS
 
 #### Color Scheme
 
