@@ -69,23 +69,6 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### Template
 
 
@@ -157,6 +140,7 @@ These are not broken images, they are pdf files, you can click on them and you w
 
 #### Classes
 
+
   - The different options of classes are styled the same as the membership option boxes to give the user the same feel through the page and the whole website.
   
   - Each individual classes box has a title of the class workout and a small description of what kind of exercise would be involved in it.
@@ -165,15 +149,23 @@ These are not broken images, they are pdf files, you can click on them and you w
 
 #### Timetable
 
+
    - At the bottom of the page after seeing the classes, I placed a timetable containing all the information for what day the classes are on, at what time and what day.
    
    - I gave plently of space in each grid of the timetable to make sure the user isn't struggling to read the text between all the horizontal and vertical bordered that keep the information structure.
    
    - I have place a button underneath the timetable which contains a downloadable image of the timetable for the user to download and keep saved on the device just incase of any network issues that they could potentially have with their device. e.g. no service on the users mobile device.
-   - 
+   
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/gallery.jpg">   
+
 #### Gallery 
 
-explain how they can see what gym is like
+
+  - In this page it contains of images equally spaced between each other to give the user an easy experience when browsing through the images. Whem the cursor is hovered over an image, the image will get a curved border like the ones in the class boxes and membership options to keep everything consistent.
+  
+  - The gallery will also provide the user with supporting images to see what gym equipment is available, what the classes look like if the user were to join, it also show what the gym looks like inside.
+  
+  - This section is valuable to the user as they will be able to easily identify what needs the user are looking for cand if they be fulfilled at the gym.
 
 #### Google Maps
 
