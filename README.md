@@ -25,7 +25,8 @@ The intention behind this project is health, fitness and well being! In this pro
       - [**Get In Touch**](#get-in-touch)
       - [**Features Left To Implement**](#features-left-to-implement)
       
-3.  - [**Languages**](#languages)
+3. [**Technology Used**(#technology used)
+    - [**Languages**](#languages)
     - [**Color Scheme**](#color-scheme)
     - [**Icons**](#icons)
     - [**Template**](#template)
@@ -166,6 +167,7 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 
   - Possibly a live chat button where the user can speak directly to a member of staff which can give prompt responses to the user.
 
+## Technology Used
 
 #### Languages
 
