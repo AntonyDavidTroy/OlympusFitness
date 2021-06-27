@@ -11,7 +11,7 @@ The intention behind this project is health, fitness and well being! In this pro
 
 ## Table of Contents
 1. [**UX**](#ux)
-    - [**Languages & Framework**](#languages-&-framework)
+    - [**Languages & Framework**](#languages-&-technologies)
     - [**Color Scheme**](#color-scheme)
     - [**Icons**](#icons)
     - [**Template**](#template)
@@ -31,7 +31,7 @@ The intention behind this project is health, fitness and well being! In this pro
       
 3. [**Testing**](#testing)
       - [**Validator Testing**](#validator-testing)
-      - [**Issues**]{#issues)
+      - [**Issues**](#issues)
  4. [**Deployment**](#deployment)
  
  5.  [**Credits**](#credits)
@@ -44,7 +44,7 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 
 
 
-#### Languages & Techologies
+#### Languages & Technologies
 
 
    -HTML
