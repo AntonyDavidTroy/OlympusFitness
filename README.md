@@ -1,8 +1,11 @@
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/preview-on-all-devices.jpg">
 
+
 # Olympus Fitness
 
+
 ## Milestone 1 Project
+
 
 The intention behind this project is health, fitness and well being! In this project I have used HTML for structure, CSS for the style to make the website more appealing and user-friendly. I have used media queries to make the project responsive on devices of all different sizes.
 
@@ -29,9 +32,11 @@ The intention behind this project is health, fitness and well being! In this pro
 
 ## UX
 
+
 This website highlights the facilities of the Olympus Fitness gym. The hours of operations, pricing and facility highlights are listed as this is what potential clients/members care about the most. A Gallery page is presented to help provide with images of the equipment, classes and  the general look of the gym. The website is filled with a good deal of information and also has an equiry form where they can ask any additonal questions that they would like to be ask. I wanted to make the website look attractive to people of all ages.
 
 #### User Stories
+
 
 - Users can scroll up and down or use navigation menus for contents they are interested.
 - The website has social media links (**Facebook**, **Instagram**, **Twitter** and **Youtube**) so gym members and potential clients can follow and preview what possible services this Gym offers and what could be in store in the future for them.
@@ -44,11 +49,13 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 
 #### Languages & Techologies
 
+
    -HTML
    
    -CSS
 
 #### Color Scheme
+
 
    - Dark Grey: #353535
    - Light Grey: #bdb6b6
@@ -56,6 +63,7 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
    - The main colours for the website is Dark Grey and Light Grey as I believe these are colours that compliment each other. The background colour is the darker colour, to let the lighter colour with the information stand out but also easy on the eyes without being a too bright and bold. I also used these colours to give a feel of a cool and neutral feelings of the gym to show anyone and everyone would feel welcome.
 
 #### Icons
+
 
    - I used icons from a website called 'https://fontawesome.com/' to give the website a up-to-date look when it comes to the contacting information, buttons and the social media links.
 
@@ -80,14 +88,17 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 
 #### Template
 
+
 These are not broken images, they are pdf files, you can click on them and you will be directed to: readme-assets > template images >
 
 
 ## Existing Features
 
+
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/navigation-bar.jpg">
 
 #### Navigation Bar
+
 
    - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home, About, Gallery and Contact page and is identical in each page to allow for easy navigation.
    -This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
@@ -97,23 +108,33 @@ These are not broken images, they are pdf files, you can click on them and you w
    
    #### Footer
    
-  - Featured on all four pages the full responsive footer The section includes links to the relevant social media sites for Olyumpus Fitness. The links will open to a new tab to allow easy and direct navigation for the user.
+   
+  - Featured on all four pages the full responsive footer The section includes links to the relevant social media sites for Olyumpus Fitness.
+  - The links will open to a new tab to allow easy and direct navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media.
+  
    
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/landing-page.jpg">
 
 #### Landing Page
 
+
     - The landing page includes the logo, navigation bar and a large main photo of the gym to gibe the users a good idea of what the gym looks and feels like. 
     
-    - There is a small box included on the main image, giving the user inspiration and motiviation. It is slightly transparent so the user can still see the main image but also clear enough to read the text without conflicting.
+    - There is a small box included on the main image, giving the user inspiration and motiviation. 
+    It is slightly transparent so the user can still see the main image but also clear enough to read the text without conflicting.
+
 
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/contact-info-home.jpg">
 
+
 #### contact Info On Home Page
 
+
    - The contact section on the home page consist of two halfs, the first left half is the basic, yet important information needed to get in touch contact with the gym. Each section has a small header with an icon next to make it look up to date and use-friendly without being too fancy.
+   
    - The second right half contains an image of google maps which shows the location of the gym and surrounding areas.
+
 
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/membership-options.jpg">
 
@@ -122,9 +143,11 @@ These are not broken images, they are pdf files, you can click on them and you w
 
     - In the section of the membership options, the user will see three big options for the gym, all containing the pricing, what facilities they would receieve and any additonal fees that could be included.
     
-    - Each box has the same background colour as the main background to blend in, however when the use will hover their cursor over the options, the background color and the text color will swap to give it more of an appealing, but soft look.
+    - Each box has the same background colour as the main background to blend in, however when the use will hover their cursor over the options.
     
-    -I added a curved border on the edges to give it a smooth look so that the option boxes doesn't look plain and 'blocky'.
+    - The background color and the text color will swap to give it more of an appealing, but soft look.
+    
+    - I added a curved border on the edges to give it a smooth look so that the option boxes doesn't look plain and 'blocky'.
     
     - I gave a good amount of spacing between each box and each part of information in the option boxes so that the information is not cluttered or squashed together.
 
