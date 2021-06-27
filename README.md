@@ -22,7 +22,7 @@ The intention behind this project is health, fitness and well being! In this pro
       - [**Membership Options**](#membership-options)
       - [**Classes**](#classes)
       - [**Timetable**](#timetable)
-      - [**Gallery**](#galleryy)
+      - [**Gallery**](#gallery)
       - [**Google Maps**](#google-maps)
       - [**Get In Touch**](get-in-touch)
 
@@ -118,9 +118,14 @@ These are not broken images, they are pdf files, you can click on them and you w
 
 #### Membership Options
 
+
     - In the section of the membership options, the user will see three big options for the gym, all containing the pricing, what facilities they would receieve and any additonal fees that could be included.
-    - Each box has the same background colour as the main background to blend in, however when the use will hover their cursor over the options, the background color and the text color will swap to give it more of an appealing, but soft look. I added a curved border on the edges to give it a smooth look so that the option boxes doesn't look plain and 'blocky'.
+    
+    - Each box has the same background colour as the main background to blend in, however when the use will hover their cursor over the options, the background color and the text color will swap to give it more of an appealing, but soft look.
+    -I added a curved border on the edges to give it a smooth look so that the option boxes doesn't look plain and 'blocky'.
+    
     - I gave a good amount of spacing between each box and each part of information in the option boxes so that the information is not cluttered or squashed together.
+
 
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/classes.jpg">
 
