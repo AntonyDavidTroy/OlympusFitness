@@ -76,6 +76,8 @@ These are not broken images, they are pdf files, you can click on them and you w
 
 ## Features
 
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/nav-bar.jpg">
+
 #### Navigation Bar
 
    - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home, About, Gallery and Contact page and is identical in each page to allow for easy navigation.
