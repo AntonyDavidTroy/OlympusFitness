@@ -31,23 +31,18 @@ The intention behind this project is health, fitness and well being! In this pro
       - [**Features Left To Implement**](#features-left-to-implement)
       
 3. [**Testing**](#testing)
-        - [**Validator Testing**](validator-testing)
-
+        - [**Validator Testing**](#validator-testing)
+        - [**Issues**]{#issues)
+ 4. [**Deployment**](#deployment)
+ 
+ 5.  [**Credits**](#credits)
+       - [**Contents**](#contents)
+       - [**Media**](#Media)
 ## UX
 
 
-This website highlights the facilities of the Olympus Fitness gym. The hours of operations, pricing and facility highlights are listed as this is what potential clients/members care about the most. A Gallery page is presented to help provide with images of the equipment, classes and  the general look of the gym. The website is filled with a good deal of information and also has an equiry form where they can ask any additonal questions that they would like to be ask. I wanted to make the website look attractive to people of all ages.
+This website highlights the facilities of the Olympus Fitness gym. The hours of operations, pricing and facility highlights are listed as this is what potential clients/members care about the most. A Gallery page is presented to help provide with images of the equipment, classes and  the general look of the gym. The website is filled with a good deal of information and also has an equiry form where they can ask any additonal questions that they would like to be ask. I wanted to make the website look attractive to people of all ages. The website has social media links (**Facebook**, **Instagram**, **Twitter** and **Youtube**) so gym members and potential clients can follow and preview what possible services this Gym offers and what could be in store in the future for them.
 
-#### User Stories
-
-
-- Users can scroll up and down or use navigation menus for contents they are interested.
-- The website has social media links (**Facebook**, **Instagram**, **Twitter** and **Youtube**) so gym members and potential clients can follow and preview what possible services this Gym offers and what could be in store in the future for them.
-- Potential gym members can find hours of operation, membership pricing and services easily and can also contact the gym on the 'Contact' page via phone number, email or enquiry form.
-- Any user, potential or current member can view the 'Gallery' page to visually see what sort of equipment and classes this gym offers.
-- New and existing users can see the location of the gym by zooming in on a google map section I have place on the 'Home' and 'Contact' page for easy access. The one on the 'Contact' page is interactive so they can get instant directions and familiarise themselves with the area.
-- On the 'About' page, all the membership options and classes box colors swap to give it an eye catching looking when hovering over the box with the mouse.
-- At the bottom of the 'About' Page there is a timetable to show what classes are on throughout the week to help current and potential new members with planning our their lifestyle. Underneath the timetable there is a button to download the timetable to keep on your device incase of not having any internet access. The timetable also scrolls from left to right when the device becomes too small to fit all on one page without looking distorted.
 
 
 #### Languages & Techologies
@@ -163,6 +158,8 @@ These are not broken images, they are pdf files, you can click on them and you w
    
    - I have place a button underneath the timetable which contains a downloadable image of the timetable for the user to download and keep saved on the device just incase of any network issues that they could potentially have with their device. e.g. no service on the users mobile device.
    
+   -  The timetable also scrolls from left to right when the device becomes too small to fit all on one page without looking distorted.
+   
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/timetable.jpg">
 
 
@@ -203,3 +200,43 @@ These are not broken images, they are pdf files, you can click on them and you w
       - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fantonydavidtroy.github.io%2FOlympusFitness%2F)
   - CSS
      -  No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fantonydavidtroy.github.io%2FOlympusFitness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+ 
+
+## Issues
+
+  - After finishing the website the first issue I had was the images in the Gallery page were getting bigger when hovered, but it also kicked all other images out of alignment. I fixed this by changing the 'max-height' to 'height' and it solved it.
+  
+  - The second issue I had with this website was the timetable could be scrolled up and down aswell as left and right, it made it look pretty tacky, so after that I changed the overflow to overflow-x. This solved this issue for me.
+  
+  - My third issue was when I was using devices with smaller screens alot of images kept appearing stretched, I had to keep changing the heights of the images, so as the screens got smaller I had to change the height of the images between certain sizes of screens.
+  
+  - After finally finishing I realised I didn't put a title about the enquiry form and contact info in the Contact page. So I simply added a title above with was central to keep that professional look.
+  
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://antonydavidtroy.github.io/OlympusFitness/
+
+## Credits
+
+#### Contents
+     
+  - Some of the information in the classes and membership boxes was taken from https://www.kingshill-infinity-fitness.uk/
+  
+  - Instructions on how to implement the enquiry form on the Contacts page was taken from https://www.youtube.com/watch?v=UAWhbMDBGW4
+  
+  - The icons in the footer and in the contact information were taken from https://fontawesome.com/
+  
+#### Media
+     
+  - The timetable layout was taken from a google images search of 'gym timetables'
+  
+  - The images throughout the website were all taken from multiple google images searches of 'gym, 'gym equipment' 'group class workouts' 'yoga' 'spin class'
+
+
+
+
