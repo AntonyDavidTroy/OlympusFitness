@@ -25,7 +25,7 @@ The intention behind this project is health, fitness and well being! In this pro
       - [**Get In Touch**](#get-in-touch)
       - [**Features Left To Implement**](#features-left-to-implement)
       
-3. [**Technology Used**](#technology used)
+3. [**Technology Used**](#technology-used)
     - [**Languages**](#languages)
     - [**Color Scheme**](#color-scheme)
     - [**Icons**](#icons)
