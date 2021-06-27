@@ -119,9 +119,9 @@ These are not broken images, they are pdf files, you can click on them and you w
 #### Landing Page
 
 
-    - The landing page includes the logo, navigation bar and a large main photo of the gym to gibe the users a good idea of what the gym looks and feels like. 
+ - The landing page includes the logo, navigation bar and a large main photo of the gym to gibe the users a good idea of what the gym looks and feels like. 
     
-    - There is a small box included on the main image, giving the user inspiration and motiviation. 
+ - There is a small box included on the main image, giving the user inspiration and motiviation. 
     It is slightly transparent so the user can still see the main image but also clear enough to read the text without conflicting.
 
 
@@ -131,9 +131,9 @@ These are not broken images, they are pdf files, you can click on them and you w
 #### contact Info On Home Page
 
 
-   - The contact section on the home page consist of two halfs, the first left half is the basic, yet important information needed to get in touch contact with the gym. Each section has a small header with an icon next to make it look up to date and use-friendly without being too fancy.
+  - The contact section on the home page consist of two halfs, the first left half is the basic, yet important information needed to get in touch contact with the gym. Each section has a small header with an icon next to make it look up to date and use-friendly without being too fancy.
    
-   - The second right half contains an image of google maps which shows the location of the gym and surrounding areas.
+  - The second right half contains an image of google maps which shows the location of the gym and surrounding areas.
 
 
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/membership-options.jpg">
@@ -141,15 +141,15 @@ These are not broken images, they are pdf files, you can click on them and you w
 #### Membership Options
 
 
-    - In the section of the membership options, the user will see three big options for the gym, all containing the pricing, what facilities they would receieve and any additonal fees that could be included.
+   - In the section of the membership options, the user will see three big options for the gym, all containing the pricing, what facilities they would receieve and any additonal fees that could be included.
     
-    - Each box has the same background colour as the main background to blend in, however when the use will hover their cursor over the options.
+  - Each box has the same background colour as the main background to blend in, however when the use will hover their cursor over the options.
+   
+  - The background color and the text color will swap to give it more of an appealing, but soft look.
     
-    - The background color and the text color will swap to give it more of an appealing, but soft look.
+  - I added a curved border on the edges to give it a smooth look so that the option boxes doesn't look plain and 'blocky'.
     
-    - I added a curved border on the edges to give it a smooth look so that the option boxes doesn't look plain and 'blocky'.
-    
-    - I gave a good amount of spacing between each box and each part of information in the option boxes so that the information is not cluttered or squashed together.
+  - I gave a good amount of spacing between each box and each part of information in the option boxes so that the information is not cluttered or squashed together.
 
 
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/classes.jpg">
