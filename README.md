@@ -1,4 +1,4 @@
-<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/assets/images/preview-on-all-devices.jpg">
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/preview-on-all-devices.jpg">
 
 # Olympus Fitness
 
