@@ -33,7 +33,7 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 - At the bottom of the 'About' Page there is a timetable to show what classes are on throughout the week to help current and potential new members with planning our their lifestyle. Underneath the timetable there is a button to download the timetable to keep on your device incase of not having any internet access. The timetable also scrolls from left to right when the device becomes too small to fit all on one page without looking distorted.
 
 
-#### Languages & Framework
+#### Languages & Techologies
 
    -HTML
    
