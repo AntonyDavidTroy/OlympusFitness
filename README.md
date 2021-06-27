@@ -78,8 +78,6 @@ These are not broken images, they are pdf files, you can click on them and you w
 ## Existing Features
 
 
-<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/navigation-bar.jpg">
-
 #### Navigation Bar
 
 
@@ -87,7 +85,9 @@ These are not broken images, they are pdf files, you can click on them and you w
    -This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
    -The navigation bar has an active status on, so what page you are currently on the title of that page will be underlined permanently. When your cursor is hovered over any other page titles, they will also be underline, only while you are hovered over it.
    
-<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/footer.jpg">
+
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/navigation-bar.jpg">
+
    
    #### Footer
    
@@ -96,8 +96,9 @@ These are not broken images, they are pdf files, you can click on them and you w
   - The links will open to a new tab to allow easy and direct navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   
-   
-<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/landing-page.jpg">
+
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/footer.jpg">
+
 
 #### Landing Page
 
@@ -108,7 +109,7 @@ These are not broken images, they are pdf files, you can click on them and you w
     It is slightly transparent so the user can still see the main image but also clear enough to read the text without conflicting.
 
 
-<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/contact-info-home.jpg">
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/landing-page.jpg">
 
 
 #### contact Info On Home Page
@@ -119,7 +120,8 @@ These are not broken images, they are pdf files, you can click on them and you w
   - The second right half contains an image of google maps which shows the location of the gym and surrounding areas.
 
 
-<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/membership-options.jpg">
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/contact-info-home.jpg">
+
 
 #### Membership Options
 
@@ -136,7 +138,8 @@ These are not broken images, they are pdf files, you can click on them and you w
 
   - I have placed a link styled as a button underneath the membership options that becomes underline when hovered over to let the user know and have the option to be one click away to get into contact with the gym. It also has a small text to give the user encouragement to click.
 
-<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/classes.jpg">
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/membership-options.jpg">
+
 
 #### Classes
 
@@ -145,7 +148,8 @@ These are not broken images, they are pdf files, you can click on them and you w
   
   - Each individual classes box has a title of the class workout and a small description of what kind of exercise would be involved in it.
 
-<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/timetable.jpg">
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/classes.jpg">
+
 
 #### Timetable
 
@@ -156,7 +160,8 @@ These are not broken images, they are pdf files, you can click on them and you w
    
    - I have place a button underneath the timetable which contains a downloadable image of the timetable for the user to download and keep saved on the device just incase of any network issues that they could potentially have with their device. e.g. no service on the users mobile device.
    
-<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/gallery.jpg">   
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/timetable.jpg">
+
 
 #### Gallery 
 
@@ -166,6 +171,8 @@ These are not broken images, they are pdf files, you can click on them and you w
   - The gallery will also provide the user with supporting images to see what gym equipment is available, what the classes look like if the user were to join, it also show what the gym looks like inside.
   
   - This section is valuable to the user as they will be able to easily identify what needs the user are looking for cand if they be fulfilled at the gym.
+
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/gallery.jpg">   
 
 #### Google Maps
 
