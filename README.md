@@ -182,7 +182,11 @@ These are not broken images, they are pdf files, you can click on them and you w
 
 #### Get In Touch
 
-explain contact info and enquiry form
+ - This section is important as it contains contact information for the user and also an enquiry form if they have any questions.
+ 
+ - I made each text field required so that the user will have to fill out each field. I made certain field have specific inputs to help from any errors that the user may accidently make when filling in the form.
+ 
+ - I made sure to ask for all the right information in the form so that when the user is contacted back, the gym will have their correct name, number, email for when they reply to the users enquiy.
 
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/contact-info-%26-enquiry-form.jpg">
 
