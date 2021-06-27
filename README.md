@@ -11,7 +11,6 @@ The intention behind this project is health, fitness and well being! In this pro
 
 ## Table of Contents
 1. [**UX**](#ux)
-    - [**User Stories**](#user-stories)
     - [**Languages & Framework**](#languages-&-framework)
     - [**Color Scheme**](#color-scheme)
     - [**Icons**](#icons)
