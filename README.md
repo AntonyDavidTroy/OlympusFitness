@@ -76,7 +76,7 @@ These are not broken images, they are pdf files, you can click on them and you w
 
 ## Existing Features
 
-<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/nav-bar.jpg">
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/navigation-bar.jpgg">
 
 #### Navigation Bar
 
