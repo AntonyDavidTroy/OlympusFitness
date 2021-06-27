@@ -21,7 +21,7 @@ The intention behind this project is health, fitness and well being! In this pro
       - [**Contact Info On Home Page**](#contact-info-on-home-page)
       - [**Membership Options**](#membership-options)
       - [**Classes**](#classes)
-      - [*Timetable**](#timetable)
+      - [**Timetable**](#timetable)
       - [**Gallery**](#galleryy)
       - [**Google Maps**](#google-maps)
       - [**Get In Touch**](get-in-touch)
