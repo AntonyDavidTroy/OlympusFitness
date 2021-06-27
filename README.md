@@ -105,6 +105,7 @@ These are not broken images, they are pdf files, you can click on them and you w
 #### Landing Page
 
     - The landing page includes the logo, navigation bar and a large main photo of the gym to gibe the users a good idea of what the gym looks and feels like. 
+    
     - There is a small box included on the main image, giving the user inspiration and motiviation. It is slightly transparent so the user can still see the main image but also clear enough to read the text without conflicting.
 
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/contact-info-home.jpg">
@@ -122,6 +123,7 @@ These are not broken images, they are pdf files, you can click on them and you w
     - In the section of the membership options, the user will see three big options for the gym, all containing the pricing, what facilities they would receieve and any additonal fees that could be included.
     
     - Each box has the same background colour as the main background to blend in, however when the use will hover their cursor over the options, the background color and the text color will swap to give it more of an appealing, but soft look.
+    
     -I added a curved border on the edges to give it a smooth look so that the option boxes doesn't look plain and 'blocky'.
     
     - I gave a good amount of spacing between each box and each part of information in the option boxes so that the information is not cluttered or squashed together.
