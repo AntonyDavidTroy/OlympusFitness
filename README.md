@@ -27,7 +27,10 @@ The intention behind this project is health, fitness and well being! In this pro
       - [**Timetable**](#timetable)
       - [**Gallery**](#gallery)
       - [**Google Maps**](#google-maps)
-      - [**Get In Touch**](get-in-touch)
+      - [**Get In Touch**](#get-in-touch)
+      - [**Features Left To Implement**](#features-left-to-implement)
+      
+3. [**Testing**](#testing)
 
 
 ## UX
@@ -190,4 +193,6 @@ These are not broken images, they are pdf files, you can click on them and you w
 
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/contact-info-%26-enquiry-form.jpg">
 
+## Features Left To Implement
 
+  - Possibly a live chat button where the user can speak directly to a member of staff which can give prompt responses to the user.
