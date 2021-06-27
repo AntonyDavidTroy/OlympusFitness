@@ -11,10 +11,6 @@ The intention behind this project is health, fitness and well being! In this pro
 
 ## Table of Contents
 1. [**UX**](#ux)
-    - [**Languages**](#languages)
-    - [**Color Scheme**](#color-scheme)
-    - [**Icons**](#icons)
-    - [**Template**](#template)
 
 2. [**Existing Features**](#existing-features)
       - [**Navigation Bar**](#navigation-bar)
@@ -29,47 +25,24 @@ The intention behind this project is health, fitness and well being! In this pro
       - [**Get In Touch**](#get-in-touch)
       - [**Features Left To Implement**](#features-left-to-implement)
       
-3. [**Testing**](#testing)
+3.  - [**Languages**](#languages)
+    - [**Color Scheme**](#color-scheme)
+    - [**Icons**](#icons)
+    - [**Template**](#template)
+
+      
+4. [**Testing**](#testing)
       - [**Validator Testing**](#validator-testing)
       - [**Issues**](#issues)
- 4. [**Deployment**](#deployment)
+5. [**Deployment**](#deployment)
  
- 5.  [**Credits**](#credits)
+6.  [**Credits**](#credits)
        - [**Contents**](#contents)
        - [**Media**](#Media)
 ## UX
 
 
 This website highlights the facilities of the Olympus Fitness gym. The hours of operations, pricing and facility highlights are listed as this is what potential clients/members care about the most. A Gallery page is presented to help provide with images of the equipment, classes and  the general look of the gym. The website is filled with a good deal of information and also has an equiry form where they can ask any additonal questions that they would like to be ask. I wanted to make the website look attractive to people of all ages. The website has social media links (**Facebook**, **Instagram**, **Twitter** and **Youtube**) so gym members and potential clients can follow and preview what possible services this Gym offers and what could be in store in the future for them.
-
-
-
-#### Languages
-
-
-   -HTML
-   
-   -CSS
-
-#### Color Scheme
-
-
-   - Dark Grey: #353535
-   - Light Grey: #bdb6b6
-   
-   - The main colours for the website is Dark Grey and Light Grey as I believe these are colours that compliment each other. The background colour is the darker colour, to let the lighter colour with the information stand out but also easy on the eyes without being a too bright and bold. I also used these colours to give a feel of a cool and neutral feelings of the gym to show anyone and everyone would feel welcome.
-
-#### Icons
-
-
-   - I used icons from a website called 'https://fontawesome.com/' to give the website a up-to-date look when it comes to the contacting information, buttons and the social media links.
-
-
-
-#### Template
-
-
-These are not broken images, they are pdf files, you can click on them and you will be directed to: readme-assets > template images >
 
 
 ## Existing Features
@@ -192,6 +165,35 @@ These are not broken images, they are pdf files, you can click on them and you w
 ## Features Left To Implement
 
   - Possibly a live chat button where the user can speak directly to a member of staff which can give prompt responses to the user.
+
+
+#### Languages
+
+
+   -HTML
+   
+   -CSS
+
+#### Color Scheme
+
+
+   - Dark Grey: #353535
+   - Light Grey: #bdb6b6
+   
+   - The main colours for the website is Dark Grey and Light Grey as I believe these are colours that compliment each other. The background colour is the darker colour, to let the lighter colour with the information stand out but also easy on the eyes without being a too bright and bold. I also used these colours to give a feel of a cool and neutral feelings of the gym to show anyone and everyone would feel welcome.
+
+#### Icons
+
+
+   - I used icons from a website called 'https://fontawesome.com/' to give the website a up-to-date look when it comes to the contacting information, buttons and the social media links.
+
+
+
+#### Template
+
+
+These are not broken images, they are pdf files, you can click on them and you will be directed to: readme-assets > template images >
+
 
 ## Validator Testing
 
