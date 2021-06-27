@@ -50,7 +50,6 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 
    - I used icons from a website called 'https://fontawesome.com/' to give the website a up-to-date look when it comes to the contacting information, buttons and the social media links.
 
-#### Template
 
 
 
@@ -75,11 +74,11 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 These are not broken images, they are pdf files, you can click on them and you will be directed to: readme-assets > template images >
 
 
-##Features
+## Features
 
 #### Navigation Bar
 
-   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, About, Gallery and iContact page and is identical in each page to allow for easy navigation.
+   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home, About, Gallery and Contact page and is identical in each page to allow for easy navigation.
    -This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
    -The navigation bar has an active status on, so what page you are currently on the title of that page will be underlined permanently. When your cursor is hovered over any other page titles, they will also be underline, only while you are hovered over it.
    
