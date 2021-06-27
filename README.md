@@ -14,8 +14,8 @@ The intention behind this project is health, fitness and well being! In this pro
     - [**Icons**](#icons)
     - [**Template**](#template)
 
-2. ## [**Existing Features**](#existing-features)
-    -[**Navigation Bar**]{#navigation-bar)
+2. [**Existing Features**](#existing-features)
+      - [**Navigation Bar**]{#navigation-bar)
 
 
 ## UX
@@ -84,9 +84,41 @@ These are not broken images, they are pdf files, you can click on them and you w
    -This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
    -The navigation bar has an active status on, so what page you are currently on the title of that page will be underlined permanently. When your cursor is hovered over any other page titles, they will also be underline, only while you are hovered over it.
    
+   #### Footer
+   
+  - add footer, explain social media links and copyright
+   
+#### Landing Page
 
+main home page
 
+#### contact Info On Home Page
 
+add contact info
+
+#### Membership Options
+
+add membership options and button for link to contact page
+
+#### Classes
+
+add classes explain what styles used
+
+#### Timetable
+
+explain timetable and how it scrolls and downloadable button
+
+#### Gallery 
+
+explain how they can see what gym is like
+
+#### Google Maps
+
+explain how interactive it is etc
+
+#### Get In Touch
+
+explain contact info and enquiry form
 
 
 
