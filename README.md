@@ -151,17 +151,26 @@ These are not broken images, they are pdf files, you can click on them and you w
     
   - I gave a good amount of spacing between each box and each part of information in the option boxes so that the information is not cluttered or squashed together.
 
+  - I have placed a link styled as a button underneath the membership options that becomes underline when hovered over to let the user know and have the option to be one click away to get into contact with the gym. It also has a small text to give the user encouragement to click.
 
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/classes.jpg">
 
 #### Classes
 
-add classes explain what styles used
+  - The different options of classes are styled the same as the membership option boxes to give the user the same feel through the page and the whole website.
+  
+  - Each individual classes box has a title of the class workout and a small description of what kind of exercise would be involved in it.
+
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/timetable.jpg">
 
 #### Timetable
 
-explain timetable and how it scrolls and downloadable button
-
+   - At the bottom of the page after seeing the classes, I placed a timetable containing all the information for what day the classes are on, at what time and what day.
+   
+   - I gave plently of space in each grid of the timetable to make sure the user isn't struggling to read the text between all the horizontal and vertical bordered that keep the information structure.
+   
+   - I have place a button underneath the timetable which contains a downloadable image of the timetable for the user to download and keep saved on the device just incase of any network issues that they could potentially have with their device. e.g. no service on the users mobile device.
+   - 
 #### Gallery 
 
 explain how they can see what gym is like
