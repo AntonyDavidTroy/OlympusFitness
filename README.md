@@ -30,8 +30,8 @@ The intention behind this project is health, fitness and well being! In this pro
       - [**Features Left To Implement**](#features-left-to-implement)
       
 3. [**Testing**](#testing)
-        - [**Validator Testing**](#validator-testing)
-        - [**Issues**]{#issues)
+      - [**Validator Testing**](#validator-testing)
+      - [**Issues**]{#issues)
  4. [**Deployment**](#deployment)
  
  5.  [**Credits**](#credits)
@@ -109,7 +109,7 @@ These are not broken images, they are pdf files, you can click on them and you w
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/landing-page.jpg">
 
 
-#### contact Info On Home Page
+#### Contact Info On Home Page
 
 
   - The contact section on the home page consist of two halfs, the first left half is the basic, yet important information needed to get in touch contact with the gym. Each section has a small header with an icon next to make it look up to date and use-friendly without being too fancy.
