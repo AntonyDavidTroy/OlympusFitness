@@ -175,14 +175,15 @@ These are not broken images, they are pdf files, you can click on them and you w
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/gallery.jpg">   
 
 #### Google Maps
+ 
+ - This section contains an interactive google maps for the user to be able to get directions instantly to the gym and help find their way with local buildings if they were to struggle to find it.
 
-explain how interactive it is etc
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/map-on-contact-page.jpg">
 
 #### Get In Touch
 
 explain contact info and enquiry form
 
-
-
+<img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/contact-info-%26-enquiry-form.jpg">
 
 
