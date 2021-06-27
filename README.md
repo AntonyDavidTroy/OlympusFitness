@@ -9,13 +9,13 @@ The intention behind this project is health, fitness and well being! In this pro
 ## Table of Contents
 1. [**UX**](#ux)
     - [**User Stories**](#user-stories)
-    - [**Languages & Framework**](#Languages-&-Framework)
+    - [**Languages & Framework**](#languages-&-framework)
     - [**Color Scheme**](#color-scheme)
     - [**Icons**](#icons)
-    - [**Template**](#Template)
+    - [**Template**](#template)
 
-2. ## [**Features**](#features)
-    -[**Navigation Bar**]{#Navigation-Bar)
+2. ## [**Existing Features**](#existing-features)
+    -[**Navigation Bar**]{#navigation-bar)
 
 
 ## UX
@@ -33,7 +33,7 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 - At the bottom of the 'About' Page there is a timetable to show what classes are on throughout the week to help current and potential new members with planning our their lifestyle. Underneath the timetable there is a button to download the timetable to keep on your device incase of not having any internet access. The timetable also scrolls from left to right when the device becomes too small to fit all on one page without looking distorted.
 
 
-#### Languages & Framework
+#### Languages & Techologies
 
    -HTML
    
@@ -74,7 +74,7 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 These are not broken images, they are pdf files, you can click on them and you will be directed to: readme-assets > template images >
 
 
-## Features
+## Existing Features
 
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/nav-bar.jpg">
 
