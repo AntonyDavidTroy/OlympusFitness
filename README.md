@@ -194,7 +194,9 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 #### Template
 
 
-These are not broken images, they are pdf files, you can click on them and you will be directed to: readme-assets > template images >
+These are not broken images, they are pdf files, you can click on them and you will be directed to: readme-assets > template images > 
+ - Desktop : [Desktop](https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/template-images/desktop-template.jpg)
+
 
 
 ## Validator Testing
