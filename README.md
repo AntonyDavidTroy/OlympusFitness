@@ -98,7 +98,7 @@ These are not broken images, they are pdf files, you can click on them and you w
    #### Footer
    
   - Featured on all four pages the full responsive footer The section includes links to the relevant social media sites for Olyumpus Fitness. The links will open to a new tab to allow easy and direct navigation for the user.
-  -The footer is valuable to the user as it encourages them to keep connected via social media.
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
    
 #### Landing Page
 
