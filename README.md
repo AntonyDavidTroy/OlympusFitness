@@ -31,7 +31,7 @@ The intention behind this project is health, fitness and well being! In this pro
       - [**Features Left To Implement**](#features-left-to-implement)
       
 3. [**Testing**](#testing)
-
+        - [**Validator Testing**](validator-testing)
 
 ## UX
 
@@ -196,3 +196,8 @@ These are not broken images, they are pdf files, you can click on them and you w
 ## Features Left To Implement
 
   - Possibly a live chat button where the user can speak directly to a member of staff which can give prompt responses to the user.
+
+## Validator Testing
+
+  - HTML
+      - No errors were returned when passing through the official [W3C validator]https://validator.w3.org/nu/?doc=https%3A%2F%2Fantonydavidtroy.github.io%2FOlympusFitness%2F
