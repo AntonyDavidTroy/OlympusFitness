@@ -15,7 +15,16 @@ The intention behind this project is health, fitness and well being! In this pro
     - [**Template**](#template)
 
 2. [**Existing Features**](#existing-features)
-      - [**Navigation Bar**]{#navigation-bar)
+      - [**Navigation Bar**](#navigation-bar)
+      - [**Footer**](#footer)
+        [**Landing Page**](#landing-page)
+        [**Contact Info On Home Page**](#contact-info-on-home-page)
+        [**Membership Options**](#membership-options)
+        [**Classes**](#classes)
+        [**Timetable**](#timetable)
+        [**Gallery**](#galleryy)
+        [**Google Maps**](#google-maps)
+        [**Get In Touch**](get-in-touch)
 
 
 ## UX
