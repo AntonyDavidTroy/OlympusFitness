@@ -1,5 +1,7 @@
 <img src="https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/images/preview-on-all-devices.jpg">
 
+[View the live project here.](https://antonydavidtroy.github.io/OlympusFitness/)
+
 
 # Olympus Fitness
 
@@ -228,7 +230,6 @@ Once you click on these links you will be directed to: readme-assets > template 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://antonydavidtroy.github.io/OlympusFitness/
 
 ## Credits
 
