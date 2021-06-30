@@ -47,7 +47,7 @@ The intention behind this project is health, fitness and well being! In this pro
        - [**Contents**](#contents)
        - [**Media**](#Media)
        
-## User Experience(UX)
+## User Experience (UX)
 
 
  - First Time User Goals. 
