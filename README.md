@@ -260,10 +260,13 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
  
  ## Further Testing
  
- - The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
- - The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+ - The Website was tested on Google Chrome, Internet Explorer and Safari browsers.
+ - 
+ - The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX, being portrait and landscape.
+
  - A large amount of testing was done to ensure that all pages were linking correctly.
- - Family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+ - 
+ - Family members were asked to review the site and documentation to point out any bugs and/or user experience issues and what they did or did not like.
 
 ## Issues
 
