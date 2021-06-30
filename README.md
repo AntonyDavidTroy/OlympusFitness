@@ -50,18 +50,18 @@ The intention behind this project is health, fitness and well being! In this pro
 
 
  - First Time User Goals. 
-   A. As a First Time Visitor, I want to easily understand how to navigate through the website to find the desired content and information.
-   B. As a First Time Visitor, I want to be able to see what kind of equipment, classes and general facilities look like that I could potentially have access to.
-   C. As a First Time Visitor, I want to be see how welcoming and relaxed the gym is, also get the feeling anyone is welcomed at the gym.
-   D. As a First Time Visitor, I want to easily be able to locate social network links to be able to follow on up to date information and to see how legitimate and trusted they are.
+   1. As a First Time Visitor, I want to easily understand how to navigate through the website to find the desired content and information.
+   2. As a First Time Visitor, I want to be able to see what kind of equipment, classes and general facilities look like that I could potentially have access to.
+   3. As a First Time Visitor, I want to be see how welcoming and relaxed the gym is, also get the feeling anyone is welcomed at the gym.
+   4. As a First Time Visitor, I want to easily be able to locate social network links to be able to follow on up to date information and to see how legitimate and trusted they are.
  
  - Returning Visitor Goals.
-   A. As a Returning Visitor, I want to find that the layout and structure of the website remain similar throughout updates and changes.
-   B. As a Returning Visitor, I want to easily find the best way to  get into contact with the gym with any questions I may have.
+   1. As a Returning Visitor, I want to find that the layout and structure of the website remain similar throughout updates and changes.
+   2. As a Returning Visitor, I want to easily find the best way to  get into contact with the gym with any questions I may have.
      
  - Frequent User Goals.
-   A. As a Frequent User, I want to be able to see updates on the classes timetable and be able to book quickly.
-   B. As a Frequent User, I want to go onto the social media links and see updates, tips and exercise routines.
+   1. As a Frequent User, I want to be able to see updates on the classes timetable and be able to book quickly.
+   2. As a Frequent User, I want to go onto the social media links and see updates, tips and exercise routines.
 
 
 This website highlights the facilities of the Olympus Fitness gym. The hours of operations, pricing and facility highlights are listed as this is what potential clients/members care about the most. A Gallery page is presented to help provide with images of the equipment, classes and  the general look of the gym. The website is filled with a good deal of information and also has an equiry form where they can ask any additonal questions that they would like to be ask. I wanted to make the website look attractive to people of all ages. The website has social media links (**Facebook**, **Instagram**, **Twitter** and **Youtube**) so gym members and potential members can follow and preview what possible services this Gym offers and what could be in store in the future for them.
