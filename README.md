@@ -224,11 +224,10 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 
 #### Languages Used
 
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
-   - HTML
-   
-   - CSS
-   
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
 #### Frameworks, Libraries & Programs Used
 
 - [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
