@@ -17,7 +17,7 @@ The intention behind this project is health, fitness and well being! In this pro
      - [**Colour Scheme**](#colour-scheme)
      - [**Typography**](#typography)
      - [**Imagery**](#imagery)
-     - [**Template**](#template)
+     - [**Wireframe**](#wireframe)
 
 2. [**Existing Features**](#existing-features)
       - [**Navigation Bar**](#navigation-bar)
