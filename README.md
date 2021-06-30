@@ -226,7 +226,7 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
--   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 #### Frameworks, Libraries & Programs Used
 
