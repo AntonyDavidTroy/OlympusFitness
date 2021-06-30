@@ -43,6 +43,8 @@ The intention behind this project is health, fitness and well being! In this pro
       - [**Further Testing**](#further-testing)
       - [**Issues**](#issues)
 5. [**Deployment**](#deployment)
+      - [**Forking**](#forking)
+      - [**Cloning**](#cloning)
  
 6.  [**Credits**](#credits)
        - [**Contents**](#contents)
@@ -329,6 +331,25 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
+
+
+## Forking
+  If you wish to contribute to this website you can Fork it without affecting the main branch by following the procedure outlined below.
+  1. Go to the GitHub website and log in.
+  2. Locate the [Repository](https://github.com/AntonyDavidTroy/OlympusFitness) used for this project.
+  3. On the right-hand side of the Repository name, you'll see the 'Fork' button. It's located next to the 'Star' and 'Watch' buttons.
+  4. This will create a copy in your personal repository.
+  5. Once you're finished making changes you can locate the 'New Pull Request' button just above the file listing in the original repository.
+
+## Cloning 
+  If you wish to clone or download this repository to your local device you can follow the procedure outlined below.
+  1. Go to the GitHub website and log in.
+  2. Locate the [Repository](https://github.com/AntonyDavidTroy/OlympusFitness) used for this project.
+  3. Under the Repository name locate 'Clone or Download' button in green.
+  4. To clone the repository using HTTPS click the link under "Clone with HTTPS".
+  5. Open your Terminal and go to a directory where you want the cloned directory to be copied in.
+  6. Type `Git Clone` and paste the URL you copied from the GitHub.
+  7. To create your local clone press `Enter`
 
 ## Credits
 
