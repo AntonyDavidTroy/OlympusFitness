@@ -293,13 +293,13 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 
    - As a Frequent User, I want to be able to easily access the classes timetable and be able to book quickly.
  
-  1. When opening up the website and being a frequent user, they will be able to easily remember where the timetable is on the 'About' Page but also passing what type of classes are available to give them different options when deciding.
-  2. There is also a downloadable link for the user to be able to download the timetable to keep on them at all and be able to check even without internet connection.
-  3. When it comes to booking the class that the user desires, right underneath the timetable there is the Footer which includes the phone number that they can call directly, additionally the user will have the 'Contact' Page right next to the 'About' Page which had all the contact information.
+    1. When opening up the website and being a frequent user, they will be able to easily remember where the timetable is on the 'About' Page but also passing what type of classes are available to give them different options when deciding.
+    2. There is also a downloadable link for the user to be able to download the timetable to keep on them at all and be able to check even without internet connection.
+    3. When it comes to booking the class that the user desires, right underneath the timetable there is the Footer which includes the phone number that they can call directly, additionally the user will have the 'Contact' Page right next to the 'About' Page which had all the contact information.
 
  - As a Frequent User, I want to go onto the social media links to be able to see updates, tips and exercise routines.
  
- 1. As a Frequent User they could start taking interest in what the gym could be doing which involves with social media, so at the bottom of every page of the website contains a Footer, inside that Footer are icons that represent each individual social media with their link attached to it. After a simple click the user will jump straight to the desired social media and will be able to follow, get involved and see any upcoming news from the gym.
+   1. As a Frequent User they could start taking interest in what the gym could be doing which involves with social media, so at the bottom of every page of the website contains a Footer, inside that Footer are icons that represent each individual social media with their link attached to it. After a simple click the user will jump straight to the desired social media and will be able to follow, get involved and see any upcoming news from the gym.
 
  #### Further Testing
  
