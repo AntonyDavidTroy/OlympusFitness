@@ -62,8 +62,8 @@ The intention behind this project is health, fitness and well being! In this pro
    1. As a Returning Visitor, I want to easily find the best way to  get into contact with the gym with any questions they may have.
      
  - Frequent User Goals.
-   1. As a Frequent User, I want to be able to see updates on the classes timetable and be able to book quickly.
-   2. As a Frequent User, I want to go onto the social media links and see updates, tips and exercise routines.
+   1. As a Frequent User, I want to be able to easily access the classes timetable and be able to book quickly.
+   2. As a Frequent User, I want to go onto the social media links to be able to see updates, tips and exercise routines.
 
 
 This website highlights the facilities of the Olympus Fitness gym. The hours of operations, pricing and facility highlights are listed as this is what potential clients/members care about the most. A Gallery page is presented to help provide with images of the equipment, classes and  the general look of the gym. The website is filled with a good deal of information and also has an equiry form where they can ask any additonal questions that they would like to be ask. I wanted to make the website look attractive to people of all ages. The website has social media links (**Facebook**, **Instagram**, **Twitter** and **Youtube**) so gym members and potential members can follow and preview what possible services this Gym offers and what could be in store in the future for them.
@@ -287,7 +287,18 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
      3. In the 'Contact' Page the user can fill out the Enquiry Form or alternatively they call or even click on one of the social media links to get in contact through them.
      4. The footer contains links to the organisations Facebook, Twitter and Instagram and a youtube page as well as the and contact number.
      5. Whichever link the user clicks, it will be open up in a new tab to ensure the user can easily get back to the website.
+    
+    
+ - Frequent User Goals.
+
+ - As a Frequent User, I want to be able to easily access the classes timetable and be able to book quickly.
  
+  1. When opening up the website and being a frequent user, they will be able to easily remember where the timetable is on the 'About' Page but also passing what type of classes are available to give them different options when deciding.
+  2. There is also a downloadable link for the user to be able to download the timetable to keep on them at all and be able to check even without internet connection.
+  3. When it comes to booking the class that the user desires, right underneath the timetable there is the Footer which includes the phone number that they can call directly, additionally the user will have the 'Contact' Page right next to the 'About' Page which had all the contact information.
+
+
+
  #### Further Testing
  
  - The Website was tested on Google Chrome, Internet Explorer and Safari browsers.
