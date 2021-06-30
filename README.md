@@ -13,7 +13,11 @@ This is a fictional website for my Milestone 1 project.
 The intention behind this project is health, fitness and well being! In this project I have used HTML for structure, CSS for the style to make the website more appealing. I have used media queries to make the project responsive on devices of all different sizes. A up-to-date styled website for a ficticious gym that combines a cool and neutral designs which is filled with modernised equipment kept at high standards. The gym has lots of different classes throughout the week and availabilty of the facilities 24/7 which is to attract new members and keep the existing members happy through a user-friendly website.
 
 ## Table of Contents
-1. [**UX**](#ux)
+1. [**User Experience (UX)**](#user-experience(ux))
+     - [**Colour Scheme**](#colour-scheme)
+     - [**Typography**](#typography)
+     - [**Imagery**](#imagery)
+     - [**Template**](#template)
 
 2. [**Existing Features**](#existing-features)
       - [**Navigation Bar**](#navigation-bar)
@@ -30,9 +34,7 @@ The intention behind this project is health, fitness and well being! In this pro
       
 3. [**Technology Used**](#technology-used)
     - [**Languages**](#languages)
-    - [**Color Scheme**](#color-scheme)
     - [**Icons**](#icons)
-    - [**Template**](#template)
 
       
 4. [**Testing**](#testing)
@@ -43,10 +45,58 @@ The intention behind this project is health, fitness and well being! In this pro
 6.  [**Credits**](#credits)
        - [**Contents**](#contents)
        - [**Media**](#Media)
-## UX
+       
+## User Experience(UX)
 
 
-This website highlights the facilities of the Olympus Fitness gym. The hours of operations, pricing and facility highlights are listed as this is what potential clients/members care about the most. A Gallery page is presented to help provide with images of the equipment, classes and  the general look of the gym. The website is filled with a good deal of information and also has an equiry form where they can ask any additonal questions that they would like to be ask. I wanted to make the website look attractive to people of all ages. The website has social media links (**Facebook**, **Instagram**, **Twitter** and **Youtube**) so gym members and potential clients can follow and preview what possible services this Gym offers and what could be in store in the future for them.
+ - First Time User Goals. 
+   A. As a First Time Visitor, I want to easily understand how to navigate through the website to find the desired content and information.
+   B. As a First Time Visitor, I want to be able to see what kind of equipment, classes and general facilities look like that I could potentially have access to.
+   C. As a First Time Visitor, I want to be see how welcoming and relaxed the gym is, also get the feeling anyone is welcomed at the gym.
+   D. As a First Time Visitor, I want to easily be able to locate social network links to be able to follow on up to date information and to see how legitimate and trusted they are.
+ 
+ - Returning Visitor Goals.
+   A. As a Returning Visitor, I want to find that the layout and structure of the website remain similar throughout updates and changes.
+   B. As a Returning Visitor, I want to easily find the best way to  get into contact with the gym with any questions I may have.
+     
+ - Frequent User Goals.
+   A. As a Frequent User, I want to be able to see updates on the classes timetable and be able to book quickly.
+   B. As a Frequent User, I want to go onto the social media links and see updates, tips and exercise routines.
+
+
+This website highlights the facilities of the Olympus Fitness gym. The hours of operations, pricing and facility highlights are listed as this is what potential clients/members care about the most. A Gallery page is presented to help provide with images of the equipment, classes and  the general look of the gym. The website is filled with a good deal of information and also has an equiry form where they can ask any additonal questions that they would like to be ask. I wanted to make the website look attractive to people of all ages. The website has social media links (**Facebook**, **Instagram**, **Twitter** and **Youtube**) so gym members and potential members can follow and preview what possible services this Gym offers and what could be in store in the future for them.
+
+
+#### Colour Scheme
+
+
+   - Dark Grey: #353535
+   - Light Grey: #bdb6b6
+   
+   - The main colours for the website is Dark Grey and Light Grey as I believe these are colours that compliment each other. The background colour is the darker colour, to let the lighter colour with the information stand out but also easy on the eyes without being a too bright and bold. I also used these colours to give a feel of a cool and neutral feelings of the gym to show anyone and everyone would feel welcome.
+
+##### Typography
+
+   - Lato.
+   - The Lato font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Lato is a clean font used frequently in programming, so it is both attractive and appropriate.
+    
+  - Oswald.
+  - The Oswald font is the font used for headers throughout the website with Sans Serif as a fallback font in case of any reason the font isn't being imported into the site correctly. Oswald and Lato compliment each other really well.
+    
+#### Imagery
+
+  - Imagery is important. The large background image on both the Home Page and the Contact Page is designed to be striking and catch the users attention as it is a picture of one of our main areas of the gym that is popular. The size of the images used for the Gallery Page is to not bombard the user with too many big and striking images, these needed to be small and modern looking so that the user can easily view many at once with a slight gaze.
+    
+    
+#### Wireframes
+
+
+
+ - Desktop Wireframe - [View](https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/template-images/desktop-template.jpg)
+ 
+ - Tablet Wireframe - [View](https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/template-images/tablet-template.jpg)
+
+ - Mobile Wireframe - [View](https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/template-images/mobile-template.jpg)
 
 
 ## Existing Features
@@ -178,30 +228,12 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
    - HTML
    
    - CSS
-
-#### Color Scheme
-
-
-   - Dark Grey: #353535
-   - Light Grey: #bdb6b6
    
-   - The main colours for the website is Dark Grey and Light Grey as I believe these are colours that compliment each other. The background colour is the darker colour, to let the lighter colour with the information stand out but also easy on the eyes without being a too bright and bold. I also used these colours to give a feel of a cool and neutral feelings of the gym to show anyone and everyone would feel welcome.
-
 #### Icons
 
 
    - I used icons from a website called 'https://fontawesome.com/' to give the website a up-to-date look when it comes to the contacting information, buttons and the social media links.
 
-
-
-#### Template
-
-
-Once you click on these links you will be directed to: readme-assets > template images > 
-
- - [Desktop](https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/template-images/desktop-template.jpg)
- - [Tablet](https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/template-images/tablet-template.jpg)
- - [Mobile](https://github.com/AntonyDavidTroy/OlympusFitness/blob/master/readme-assets/template-images/mobile-template.jpg)
 
 
 
