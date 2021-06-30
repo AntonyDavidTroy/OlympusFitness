@@ -33,8 +33,8 @@ The intention behind this project is health, fitness and well being! In this pro
       - [**Features Left To Implement**](#features-left-to-implement)
       
 3. [**Technology Used**](#technology-used)
-    - [**Languages**](#languages)
-    - [**Icons**](#icons)
+    - [**Languages Used**](#languages-used)
+    - [**Frameworks, Libraries & Programs Used**](#frameworks,-libraries-&-programs-used)
 
       
 4. [**Testing**](#testing)
@@ -222,17 +222,30 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 
 ## Technology Used
 
-#### Languages
+#### Languages Used
 
 
    - HTML
    
    - CSS
    
-#### Icons
+#### Frameworks, Libraries & Programs Used
 
+- [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+- [Hover.css:](https://ianlunn.github.io/Hover/)
+    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over. Hover.css was also used in the classes and the membership options in the About Page to let them stand out. Hover.css was used on the images in the Gallery Page, giving them a small white border, letting the user know what images they have their cursor on.
+- [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+- [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+- [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+- [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+- [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
-   - I used icons from a website called 'https://fontawesome.com/' to give the website a up-to-date look when it comes to the contacting information, buttons and the social media links.
 
 
 
