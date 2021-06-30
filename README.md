@@ -233,7 +233,7 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 #### Frameworks, Libraries & Programs Used
 
 - [Media Queries:](https://en.wikipedia.org/wiki/Media_queriesn/)
-    - Media Queires was used to assist with the responsiveness and styling of the website.
+    - Media Queries was used to assist with the responsiveness and styling of the website.
 - [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over. Hover.css was also used in the classes and the membership options in the About Page to let them stand out. Hover.css was used on the images in the Gallery Page, giving them a small white border, letting the user know what images they have their cursor on.
 - [Google Fonts:](https://fonts.google.com/)
