@@ -39,7 +39,7 @@ The intention behind this project is health, fitness and well being! In this pro
       
 4. [**Testing**](#testing)
       - [**Validator Testing**](#validator-testing)
-      - [**Testing User Stories from User Experience (UX) Section**}(#testing-user-stories-from-user-experience-(UX)-section)
+      - [**Testing User Stories from User Experience (UX) Section**](#testing-user-stories-from-user-experience-(UX)-section)
       - [**Further Testing**](#further-testing)
       - [**Issues**](#issues)
 5. [**Deployment**](#deployment)
