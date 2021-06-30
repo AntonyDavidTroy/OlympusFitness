@@ -291,7 +291,7 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
     
  - Frequent User Goals.
 
- - As a Frequent User, I want to be able to easily access the classes timetable and be able to book quickly.
+   - As a Frequent User, I want to be able to easily access the classes timetable and be able to book quickly.
  
   1. When opening up the website and being a frequent user, they will be able to easily remember where the timetable is on the 'About' Page but also passing what type of classes are available to give them different options when deciding.
   2. There is also a downloadable link for the user to be able to download the timetable to keep on them at all and be able to check even without internet connection.
