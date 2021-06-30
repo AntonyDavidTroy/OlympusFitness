@@ -54,13 +54,12 @@ The intention behind this project is health, fitness and well being! In this pro
 
  - First Time User Goals. 
    1. As a First Time Visitor, I want to easily understand how to navigate through the website to find the desired content and information.
-   2. As a First Time Visitor, I want to be able to see what kind of equipment, classes and general facilities look like that I could potentially have access to.
+   2. As a First Time Visitor, I want to be able to see what kind of equipment, classes and general facilities look like that they could potentially have access to.
    3. As a First Time Visitor, I want to be see how welcoming and relaxed the gym is, also get the feeling anyone is welcomed at the gym.
    4. As a First Time Visitor, I want to easily be able to locate social network links to be able to follow on up to date information and to see how legitimate and trusted they are.
  
  - Returning Visitor Goals.
-   1. As a Returning Visitor, I want to find that the layout and structure of the website remain similar throughout updates and changes.
-   2. As a Returning Visitor, I want to easily find the best way to  get into contact with the gym with any questions I may have.
+   1. As a Returning Visitor, I want to easily find the best way to  get into contact with the gym with any questions they may have.
      
  - Frequent User Goals.
    1. As a Frequent User, I want to be able to see updates on the classes timetable and be able to book quickly.
@@ -261,6 +260,34 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
  
  #### Testing User Stories from User Experience (UX) Section
  
+ - First Time USer Goals.
+ 
+       - As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+ 
+       1. When first entering the site, users are automatically greeted with a smart looking and easy to read navigation bar that will allow them to go to the page of their choice.
+
+       - As a First Time Visitor, I want to be able to see what kind of equipment, classes and general facilities look like that I could potentially have access to.
+
+       1. As soon as you enter site, you are greeted a main background image which is a one of our main areas at the gym and also greeted with a 'Gallery' link in the navigation bar which will lead you to various images of the gym and the facilities.
+       
+       -  As a First Time Visitor, I want to be see how welcoming and relaxed the gym is, also get the feeling anyone is welcomed at the gym.
+       
+       1. Throughout the website the user will be able to see multiple images of how the gym  is spacious, full of equipment, great facilties and have various classes to suit all needs. 
+
+       - As a First Time Visitor, I want to easily be able to locate social network links to be able to follow on up to date information and to see how legitimate and trusted they are.
+
+       1. At the bottom of the page in the footer, there are multiple links that can lead you straight to all the gyms social media pages, the footer is included in every page of the website for consistency.
+       
+- Returning User Goals.
+
+      -  As a Returning Visitor, I want to easily find the best way to  get into contact with the gym with any questions they may have.
+       
+       1. The navigation bar clearly highlights the "Contact" Page to help with the user finding contact information.
+       2. Aswell as having the 'contact' Page, on the home page there is also a section with contact information.
+       3. In the 'Contact' Page the user can fill out the Enquiry Form or alternatively they call or even click on one of the social media links to get in contact through them.
+       4. The footer contains links to the organisations Facebook, Twitter and Instagram and a youtube page as well as the and contact number.
+       5. Whichever link the user clicks, it will be open up in a new tab to ensure the user can easily get back to the website.
+ 
  #### Further Testing
  
  - The Website was tested on Google Chrome, Internet Explorer and Safari browsers.
@@ -283,6 +310,7 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
   
 ## Deployment
 
+- Github
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
