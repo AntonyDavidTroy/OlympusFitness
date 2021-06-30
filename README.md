@@ -39,6 +39,7 @@ The intention behind this project is health, fitness and well being! In this pro
       
 4. [**Testing**](#testing)
       - [**Validator Testing**](#validator-testing)
+      - [**Testing User Stories from User Experience (UX) Section**}(#testing-user-stories-from-user-experience-(UX)-section)
       - [**Further Testing**](#further-testing)
       - [**Issues**](#issues)
 5. [**Deployment**](#deployment)
@@ -251,24 +252,26 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
 
 ## Testing
 
-## Validator Testing
+#### Validator Testing
 
   - HTML
-      - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fantonydavidtroy.github.io%2FOlympusFitness%2F)
+      - No errors were returned when passing through the official W3C validator - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fantonydavidtroy.github.io%2FOlympusFitness%2F)
   - CSS
-     -  No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fantonydavidtroy.github.io%2FOlympusFitness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+     -  No errors were found when passing through the official (Jigsaw) validator - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fantonydavidtroy.github.io%2FOlympusFitness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
  
- ## Further Testing
+ #### Testing User Stories from User Experience (UX) Section
+ 
+ #### Further Testing
  
  - The Website was tested on Google Chrome, Internet Explorer and Safari browsers.
- - 
+ 
  - The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX, being portrait and landscape.
 
  - A large amount of testing was done to ensure that all pages were linking correctly.
- - 
+ 
  - Family members were asked to review the site and documentation to point out any bugs and/or user experience issues and what they did or did not like.
 
-## Issues
+#### Issues
 
   - After finishing the website the first issue I had was the images in the Gallery page were getting bigger when hovered, but it also kicked all other images out of alignment. I fixed this by changing the 'max-height' to 'height' and it solved it.
   
