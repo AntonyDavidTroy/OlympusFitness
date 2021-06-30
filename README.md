@@ -13,7 +13,7 @@ This is a fictional website for my Milestone 1 project.
 The intention behind this project is health, fitness and well being! In this project I have used HTML for structure, CSS for the style to make the website more appealing. I have used media queries to make the project responsive on devices of all different sizes. A up-to-date styled website for a ficticious gym that combines a cool and neutral designs which is filled with modernised equipment kept at high standards. The gym has lots of different classes throughout the week and availabilty of the facilities 24/7 which is to attract new members and keep the existing members happy through a user-friendly website.
 
 ## Table of Contents
-1. [**User Experience (UX)**](#user-experience(ux))
+1. [**User Experience (UX)**](#user-experience-(ux))
      - [**Colour Scheme**](#colour-scheme)
      - [**Typography**](#typography)
      - [**Imagery**](#imagery)
