@@ -39,6 +39,7 @@ The intention behind this project is health, fitness and well being! In this pro
       
 4. [**Testing**](#testing)
       - [**Validator Testing**](#validator-testing)
+      - [**Further Testing**](#further-testing)
       - [**Issues**](#issues)
 5. [**Deployment**](#deployment)
  
@@ -256,6 +257,12 @@ This website highlights the facilities of the Olympus Fitness gym. The hours of 
   - CSS
      -  No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fantonydavidtroy.github.io%2FOlympusFitness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
  
+ ## Further Testing
+ 
+ - The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+ - The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+ - A large amount of testing was done to ensure that all pages were linking correctly.
+ - Family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ## Issues
 
